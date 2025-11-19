@@ -1,2 +1,2 @@
 # Cybersecurity-Portfolio
-Portfolio of cybersecurity projects including reports, tools and analytics
+My cybersecurity and cloud security learning portfolio. Projects, labs, and write-ups.
