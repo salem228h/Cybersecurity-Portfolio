@@ -4,6 +4,13 @@ This repository includes my main certificates, hands-on labs, real cybersecurity
 
 ## Sections:
 - [Certificates](certificates/)
+- # Certificates
+
+All my completed course certificates and badges.
+
+- [Coursera: Introduction to Cyber Security](coursera.md)
+- [Dawson College Cybersecurity Fundamentals](dawson.md)
+
 - [Labs](labs/)
 - [Projects](projects/)
 - [Write-ups & CTFs](writeups/)
