@@ -48,4 +48,17 @@ Solutions to challenges, CTF rooms, and scenarios:
 Hello! My name is Mohammad Salem.
 
 - **Education**:  
-  BSc in Computer Science – Afghanistan
+  BSc in Computer Science – Afghanistan  
+  Studying cybersecurity at Dawson College
+
+- **Interests**:  
+  Cloud Security | Networking | Practical Labs
+
+- **Continuous Learning**:  
+  TryHackMe | Coursera | Online training platforms
+
+- **Contact**:  
+  Email: [salemhassani228@gmail.com](mailto:salemhassani228@gmail.com)
+
+---
+
