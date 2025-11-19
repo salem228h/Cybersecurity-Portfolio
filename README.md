@@ -1,64 +1,102 @@
-# 🛡️ **Cybersecurity & Cloud Security Portfolio**
+# 🛡️ Cybersecurity & Cloud Security Portfolio
 
 ---
 
-🌟 *Welcome! This repository showcases my certificates, hands-on labs, cybersecurity projects, and CTF writeups.*
+🌟 *Welcome! This repository showcases my certificates, hands-on labs, SOC analysis reports, cybersecurity projects, and CTF writeups.*
 
 ---
 
-## 🗂️ **Sections**
+## 🗂️ Sections
+
 ---
-### 🎓 **Certificates**  
+
+### 🎓 Certificates  
 All my completed course certificates and badges:
+- [Cisco CyberOps Associate Certificate](certificates/cisco-cyberops.md)
 - [Coursera: Introduction to Cyber Security](certificates/coursera.md)
 - [Dawson College Cybersecurity Fundamentals](certificates/dawson.md)
+- [University Documents](certificates/university-docs.md)
 
 ---
-### 🧪 **Labs**  
+
+### 🧪 Labs  
 Reports and notes from my hands-on labs and virtual training:
 - [TryHackMe: Introduction Room](labs/tryhackme-intro.md)
 - [Cloud Basics](labs/cloud-basics.md)
+- [SOC Analysis Practice](labs/soc-analysis.md)
 
 ---
-### 🛠️ **Projects**  
+
+### 🛠️ Projects  
 Collection of personal, academic, or open-source cybersecurity projects:
 - [Cloud Security Script](projects/cloud-script.md)
 - [Network Automation Tool](projects/network-auto.md)
 
 ---
-### ✍️ **Write-ups & CTFs**  
+
+### 🏢 Work Experience  
+Internships and work experience in cybersecurity:
+
+- **Cyber Analyst Intern**  
+  ABC Security Solutions (2023-2024)  
+  Tasks: Alert monitoring, incident response, reporting
+
+- **University IT Lab Assistant**  
+  Dawson College (2024)  
+  Tasks: Network troubleshooting, lab supervision
+
+---
+
+### ✍️ Write-ups & CTFs  
 Solutions to challenges, CTF rooms, and scenarios:
 - [TryHackMe: Attacker Room](writeups/attacker-room.md)
 
 ---
 
-## 🚀 **Quick Links**
+## 🛡️ SOC Analysis  
+Specialized SOC (Security Operations Center) challenges and case studies:
+
+- [SOC Log Analysis Report](labs/soc-analysis.md)
+
+---
+
+## 🚀 Quick Links
+- [Cisco Certificate](certificates/cisco-cyberops.md)
 - [Coursera Certificate](certificates/coursera.md)
 - [Dawson Certificate](certificates/dawson.md)
+- [University Document](certificates/university-docs.md)
 - [First TryHackMe Lab](labs/tryhackme-intro.md)
 - [Cloud Basics Lab](labs/cloud-basics.md)
+- [SOC Analysis](labs/soc-analysis.md)
 - [Cloud Project](projects/cloud-script.md)
-- [Network Automation Project](projects/network-auto.md)
 - [TryHackMe Attacker Writeup](writeups/attacker-room.md)
 
 ---
 
-## 👤 **About Me**
+## 👤 About Me
 ---
 Hello! My name is Mohammad Salem.
 
-- **Education**:  
+- **Education:**  
   BSc in Computer Science – Afghanistan  
-  Studying cybersecurity at Dawson College
+  Cybersecurity student at Dawson College
 
-- **Interests**:  
-  Cloud Security | Networking | Practical Labs
+- **Certificates:**  
+  Cisco CyberOps, Coursera Cybersecurity, Dawson College trainings
 
-- **Continuous Learning**:  
-  TryHackMe | Coursera | Online training platforms
+- **Work Experience:**  
+  Cyber Analyst Intern, ABC Security Solutions  
+  University IT Lab Assistant
 
-- **Contact**:  
-  Email: [salemhassani228@gmail.com](mailto:salemhassani228@gmail.com)
+- **Interests:**  
+  Cloud Security | SOC Analysis | Networking | Practical Labs
+
+- **Continuous Learning:**  
+  TryHackMe, Coursera, Cisco NetAcad
+
+- **Contact:**  
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> Email: [salemhassani228@gmail.com](mailto:salemhassani228@gmail.com)  
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/> LinkedIn: [linkedin.com/in/salem228](https://www.linkedin.com/in/salem228)
 
 ---
 
