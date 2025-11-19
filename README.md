@@ -1,3 +1,25 @@
+# Cybersecurity Portfolio
+
+This repository includes my main certificates, hands-on labs, real cybersecurity projects, and CTF/writeup experiences.
+
+## Sections:
+- [Certificates](certificates/)
+- [Labs](labs/)
+- [Projects](projects/)
+- [Write-ups & CTFs](writeups/)
+
+## About Me
+Cybersecurity student at Dawson College, interested in cloud security and practical labs.
+
+Contact: salemhassani228@gmail.com
+
+
+
+
+
+
+
+
 Cybersecurity & Cloud Security Portfolio
 
 Hello! My name is Mohammad Salem.
