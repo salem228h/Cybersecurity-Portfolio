@@ -1,52 +1,66 @@
-# Cybersecurity Portfolio
+# Cybersecurity & Cloud Security Portfolio
 
 This repository includes my main certificates, hands-on labs, real cybersecurity projects, and CTF/writeup experiences.
 
-## Sections:
-- [Certificates](certificates/)
-- # Certificates
+## Sections
 
+### Certificates
 All my completed course certificates and badges.
 
-- [Coursera: Introduction to Cyber Security](coursera.md)
-- [Dawson College Cybersecurity Fundamentals](dawson.md)
+- [Coursera: Introduction to Cyber Security](certificates/coursera.md)
+- [Dawson College Cybersecurity Fundamentals](certificates/dawson.md)
 
-- [Labs](labs/)
-- [Projects](projects/)
-- [Write-ups & CTFs](writeups/)
+### Labs
+Reports and notes from my hands-on labs and virtual training.
+
+- [TryHackMe: Introduction Room](labs/tryhackme-intro.md)
+- [Cloud Basics](labs/cloud-basics.md)
+
+### Projects
+Collection of personal, academic, or open-source cybersecurity projects.
+
+- [Cloud Security Script](projects/cloud-script.md)
+- [Network Automation Tool](projects/network-auto.md)
+
+### Write-ups & CTFs
+Written solutions to challenges and CTF rooms.
+
+- [TryHackMe: Attacker Room](writeups/attacker-room.md)
+
+---
+
+## Quick Links
+
+- [Coursera Certificate](certificates/coursera.md)
+- [Dawson Certificate](certificates/dawson.md)
+- [First TryHackMe Lab](labs/tryhackme-intro.md)
+- [Cloud Basics Lab](labs/cloud-basics.md)
+- [Cloud Project](projects/cloud-script.md)
+- [Network Automation Project](projects/network-auto.md)
+- [TryHackMe Attacker Writeup](writeups/attacker-room.md)
+
+---
 
 ## About Me
-Cybersecurity student at Dawson College, interested in cloud security and practical labs.
-
-Contact: salemhassani228@gmail.com
-
-
-
-
-
-
-
-
-Cybersecurity & Cloud Security Portfolio
 
 Hello! My name is Mohammad Salem.
-I am a Cybersecurity student at Dawson College, interested in Cloud Security, Networking, and hands-on real-world labs.
-I am currently learning through TryHackMe and specialized courses on Coursera.
+Cybersecurity student at Dawson College — interested in Cloud Security, Networking, and hands-on real-world labs.
+Currently learning through TryHackMe and specialized courses on Coursera.
 
-🚀 Projects
+**Education:**  
+- BSc in Computer Science – Afghanistan  
+- Cybersecurity student at Dawson College  
 
-More projects and labs will be added soon!
+**Interests:**  
+- Cloud security  
+- Networking  
+- Practical cybersecurity labs  
 
-👤 About Me
+**Continuous Learning:**  
+- TryHackMe  
+- Coursera  
+- Online training platforms  
 
-BSc in Computer Science – Afghanistan
+**Contact:**  
+- Email: [salemhassani228@gmail.com](mailto:salemhassani228@gmail.com)
 
-Currently studying Cybersecurity at Dawson College
-
-Passionate about cloud security, networking, and practical cybersecurity labs
-
-Continuously learning and practicing through TryHackMe and online training platforms
-
-📬 Contact
-
-Email: salemhassani228@gmail.com
