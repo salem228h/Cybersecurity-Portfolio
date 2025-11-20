@@ -12,7 +12,7 @@
 
 ### 🎓 Certificates  
 All my completed course certificates and badges:
-- [Coursera: Introduction to Cyber Security](certificates/coursera.md)
+- [Coursera: Introduction to Cyber Security](certificates/coursera/coursera.md)
 - [Dawson College Cybersecurity Fundamentals](certificates/dawson.md)
 - [University Documents](certificates/university-docs.md)
 - [Cisco CyberOps Associate Certificate](certificates/cisco-cyberops.md)
