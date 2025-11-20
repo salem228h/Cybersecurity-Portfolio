@@ -13,8 +13,8 @@
 
 ## Certificate Preview
 
-<a href="../images/Coursera Fundimental Cybersecurity .pdf" target="_blank">
- <img src="../images/Coursera Fundimental Cybersecurity .pdf" width="400" alt="Coursera Certificate"/>
+<a href="../images/Coursera Foundations of Cybersecurity.pdf" target="_blank">
+ <img src="../Coursera Foundations of Cybersecurity.pdf" width="400" alt="Coursera Certificate"/>
 </a>
 
 *Click on the certificate to view in full size*
