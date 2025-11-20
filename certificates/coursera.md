@@ -1,2 +1,2 @@
-<img src="../images/coursera Fundimental Cybersecurity.pdf" width="500"/>
+<img src="../images/Coursera Fundimental Cybersecurity .pdf" width="500"/>
 
