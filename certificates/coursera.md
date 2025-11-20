@@ -1,55 +1,40 @@
-# Coursera Certificates
+# 🎓 Google Cybersecurity Professional Certificate
 
-All certificates from Coursera cybersecurity courses.
-
----
-
-## Google Cybersecurity Professional Certificate
-
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" width="30"/> **Provider:** Coursera (Google)
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" width="40"/> **Provider:** Coursera (Google Career Certificates)
 
 ---
 
-### 1. Foundations of Cybersecurity
+## 📚 All Courses
 
-<a href="../images/coursera-foundations.png" target="_blank">
-  <img src="../images/coursera-foundations.png" width="700" alt="Coursera Foundations Certificate"/>
-</a>
+### ✅ Completed Courses
+- [Course 1: Foundations of Cybersecurity](course1.md)
 
-- **Status:** ✅ Completed
-- **Completion Date:** November 2025
-- **Certificate ID:** [View Certificate](https://coursera.org/verify/YOUR_ID)
-- **Skills:** Security fundamentals, CIA Triad, Security frameworks
+### 🔄 In Progress
+- [Course 2: Play It Safe - Manage Security Risks](course2.md)
 
----
-
-### 2. Play It Safe: Manage Security Risks
-
-<a href="../images/coursera-risks.png" target="_blank">
-  <img src="../images/coursera-risks.png" width="700" alt="Coursera Risk Management Certificate"/>
-</a>
-
-- **Status:** 🔄 In Progress
-- **Expected Completion:** December 2025
-- **Skills:** Risk assessment, Security controls, Incident response
+### ⏳ Upcoming Courses
+- [Course 3: Connect and Protect - Networks Security](course3.md)
+- [Course 4: Tools of the Trade - Linux and SQL](course4.md)
+- [Course 5: Assets, Threats, and Vulnerabilities](course5.md)
+- [Course 6: Sound the Alarm - Detection and Response](course6.md)
+- [Course 7: Automate Tasks with Python](course7.md)
+- [Course 8: Prepare for Cybersecurity Jobs](course8.md)
 
 ---
 
-### 3. Connect and Protect: Networks and Network Security
+## 🎯 Overall Program Skills
 
-- **Status:** ⏳ Not Started
-- **Skills:** Network protocols, Network security, Firewalls
-
----
-
-### 4. Tools of the Trade: Linux and SQL
-
-- **Status:** ⏳ Not Started
-- **Skills:** Linux commands, SQL queries, Security tools
-
----
-
-*[View all courses in the program](https://www.coursera.org/professional-certificates/google-cybersecurity)*
+- Security fundamentals & CIA Triad
+- Risk management & security frameworks (NIST)
+- Network security & protocols
+- Linux command line & SQL
+- Asset management & vulnerability assessment
+- Incident detection & response
+- Python automation for security
+- Career preparation & professional skills
 
 ---
 
+**Program Link:** [View on Coursera](https://www.coursera.org/professional-certificates/google-cybersecurity)
+
+---
