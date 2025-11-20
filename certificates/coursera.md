@@ -13,7 +13,8 @@
 
 ## Certificate Preview
 
-<a href="../images/coursera-foundations.png" target="_blank">
+
+<img src="../images/Coursera Fundimental Cybersecurity .pdf"  target="_blank" />>
   <img src="../images/coursera-foundations.png" width="750" alt="Coursera Certificate"/>
 </a>
 
@@ -31,5 +32,4 @@
 
 ---
 
-<img src="../images/Coursera Fundimental Cybersecurity .pdf" />
 
