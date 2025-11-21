@@ -12,7 +12,7 @@
 - **Provider:** Google Cybersecurity Professional Certificate
 - **Status:** ✅ Completed
 - **Completion Date:** November 2025
-- **Certificate:** [View Certificate](https://www.coursera.org/verify/YOUR_ID)
+- **Certificate:** [View Certificate](https://www.coursera.org/verify/T2LDBA721D1I)
 
 ---
 
