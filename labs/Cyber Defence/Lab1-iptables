@@ -1,1 +1,18 @@
 
+# حرکت به مسیر اصلی
+cd labs/Cyber\ Defence
+
+# ساخت پوشه Lab1-iptables و زیرپوشه‌ها
+mkdir -p Lab1-iptables/scripts
+mkdir -p Lab1-iptables/screenshots
+
+# ایجاد فایل README.md خالی (بعداً می‌توانید مستند Lab را داخل آن قرار دهید)
+touch Lab1-iptables/README.md
+
+# ایجاد فایل‌های اسکریپت خالی
+touch Lab1-iptables/scripts/stateful_fw.sh
+touch Lab1-iptables/scripts/stateful_fw_complete.sh
+touch Lab1-iptables/scripts/mac_whitelist.sh
+
+# نمایش ساختار پوشه
+tree Lab1-iptables
