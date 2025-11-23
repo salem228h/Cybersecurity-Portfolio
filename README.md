@@ -23,7 +23,7 @@ All my completed course certificates and badges:
 Reports and notes from my hands-on labs and virtual training:
 - [TryHackMe: Introduction Room](labs/tryhackme-intro.md)
 - [Cloud Basics](labs/cloud-basics.md)
-- labs/Cyber Defence/Lab1-iptables.md
+- [Lab 1 Documentation](labs/Cyber%20Defence/Lab1-iptables/README.md)
 
 ---
 
