@@ -10,9 +10,8 @@ The purpose of these labs is to provide hands-on experience in configuring firew
 | Lab | Brief Description | Link |
 |-----|-----------------|------|
 | Lab 1: iptables Configuration | Full iptables firewall configuration including basic rules, IP/port filtering, stateful firewall, MAC filtering, and NAT | [Lab 1](Lab1-iptables/) |
-| Lab 2: Advanced Firewall Rules | Advanced firewall techniques including rate limiting, time-based rules, and logging | TBD |
-| Lab 3: IDS/IPS Basics | Introduction to Intrusion Detection and Prevention Systems | TBD |
-| Lab 4: Network Security | Network threat analysis and protection configuration | TBD |
+| Lab 2: linux_sys_hardening| TBD |
+
 
 > **Note:** Labs marked as TBD are not yet implemented, but the folder structure and README are ready.
 
