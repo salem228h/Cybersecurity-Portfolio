@@ -23,7 +23,7 @@ All my completed course certificates and badges:
 Reports and notes from my hands-on labs and virtual training:
 - [TryHackMe: Introduction Room](labs/tryhackme-intro.md)
 - [Cloud Basics](labs/cloud-basics.md)
-- [SOC Analysis Practice](labs/soc-analysis.md)
+- [SOC Analysis Practice](labs/Cyber Defence.md)
 
 ---
 
