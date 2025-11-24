@@ -10,19 +10,9 @@ The purpose of these labs is to provide hands-on experience in configuring firew
 | Lab | Brief Description | Link |
 |-----|-----------------|------|
 | Lab 1: iptables Configuration | Full iptables firewall configuration including basic rules, IP/port filtering, stateful firewall, MAC filtering, and NAT | [Lab 1](Lab1-iptables/) |
-| Lab 2: Linux System Hardening | Implemented Linux system hardening techniques including user permissions, service management, security updates, and SSH configuration | [Lab 2 ](/Lab2-linux_sys_hardening/)
+| Lab 2: Linux System Hardening | Implemented Linux system hardening techniques including kernel management, SSH configuration, firewall setup, and security updates | [Lab 2](Lab2-linux_sys_hardening/) |
 
-
-
-
-
-
-
-
-
-
-
-
+---
 
 > **Note:** Labs marked as TBD are not yet implemented, but the folder structure and README are ready.
 
@@ -33,8 +23,8 @@ The purpose of these labs is to provide hands-on experience in configuring firew
 1. Navigate to each lab folder.  
 2. Each lab folder contains:
    - **README.md** with detailed instructions and commands.
-   - `scripts/` folder containing all lab scripts.
-   - `screenshots/` folder with screenshots (if available).  
+   - `screenshots/` folder with screenshots (if available).
+   - `resources/` folder containing configuration files and backups.
 3. Click on the link in the table above to access the full lab instructions.
 
 ---
@@ -47,11 +37,5 @@ The purpose of these labs is to provide hands-on experience in configuring firew
 
 ---
 
-## Resources and References
-
-- [GitHub Repository: Cybersecurity Portfolio](https://github.com/salem228h/Cybersecurity-Portfolio)  
-- All lab scripts and documentation are available in their respective folders.
-
----
-
+## Lab Structure
 
