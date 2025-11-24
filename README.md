@@ -87,28 +87,9 @@ Hello! My name is Mohammad Salem.
 
 - **Work Experience:**  
   IT Officer, NSIA, Afghanistan (2019 – 2021)
+  Kitchen Assistant,3-Amigos, Canada (2023 – 2024)
+  Warehouse Worker, FedEx, Canada (2024 – Present)
 
-Managed IT systems and provided technical support across departments.
-
-Assisted in network administration and troubleshooting hardware/software issues.
-
-Maintained data security and supported staff in technology-related tasks.
-
-Kitchen Assistant, [Restaurant Name], Canada (2023 – 2024)
-
-Assisted chefs in food preparation and maintained kitchen hygiene.
-
-Managed inventory and ensured timely delivery of ingredients.
-
-Supported smooth daily kitchen operations.
-
-Warehouse Worker, FedEx, Canada (2024 – Present)
-
-Handled incoming and outgoing shipments efficiently.
-
-Organized inventory and maintained warehouse safety standards.
-
-Operated equipment and collaborated with team members to meet delivery schedules.
 
 - **Interests:**  
   Cloud Security | SOC Analysis | Networking | Practical Labs
