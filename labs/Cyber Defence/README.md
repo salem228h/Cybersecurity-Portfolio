@@ -39,3 +39,30 @@ The purpose of these labs is to provide hands-on experience in configuring firew
 
 ## Lab Structure
 
+labs/Cyber Defence/
+├── README.md (This file)
+├── Lab1-iptables/
+│ ├── README.md
+│ ├── scripts/
+│ └── screenshots/
+└── Lab2-linux_sys_hardening/
+├── README.md
+├── Linux-Hardening-Lab-Report.pdf
+├── screenshots/
+└── resources/
+
+---
+
+## Resources and References
+
+- [GitHub Repository: Cybersecurity Portfolio](https://github.com/salem228h/Cybersecurity-Portfolio)  
+- [Cyber Defence Labs](https://github.com/salem228h/Cybersecurity-Portfolio/tree/main/labs/Cyber%20Defence)
+- All lab scripts and documentation are available in their respective folders.
+
+---
+
+**Course:** Cybersecurity / Network Defense  
+**Student:** Mohammad Salem Hassani  
+**GitHub:** [@salem228h](https://github.com/salem228h)  
+**Last Updated:** November 2025
+
