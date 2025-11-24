@@ -13,7 +13,7 @@
 ### 🎓 Certificates  
 All my completed course certificates and badges:
 - [Coursera Cyber Security](certificates/coursera/README.md)
-- [Dawson College Cybersecurity Fundamentals](certificates/dawson.md)
+- [Dawson College Cybersecurity](certificates/dawson.md)
 - [University Documents](certificates/university-docs.md)
 - [Cisco CyberOps Associate Certificate](certificates/cisco-cyberops.md)
 
@@ -63,7 +63,7 @@ Specialized SOC (Security Operations Center) challenges and case studies:
 
 ## 🚀 Quick Links
 - [Cisco Certificate](certificates/cisco-cyberops.md)
-- [Coursera Certificate](certificates/coursera.md)
+- [Coursera Cyber Security](certificates/coursera/README.md)
 - [Dawson Certificate](certificates/dawson.md)
 - [University Document](certificates/university-docs.md)
 - [First TryHackMe Lab](labs/tryhackme-intro.md)
