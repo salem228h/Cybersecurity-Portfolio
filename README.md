@@ -87,6 +87,7 @@ Hello! My name is Mohammad Salem.
 
 - **Work Experience:**  
   IT Officer, NSIA, Afghanistan (2019 – 2021)
+
   Kitchen Assistant,3-Amigos, Canada (2023 – 2024)
   Warehouse Worker, FedEx, Canada (2024 – Present)
 
