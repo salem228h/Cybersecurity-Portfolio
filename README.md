@@ -73,48 +73,59 @@ Specialized SOC (Security Operations Center) challenges and case studies:
 - [TryHackMe Attacker Writeup](writeups/attacker-room.md)
 
 ---
-
 ## 👤 About Me
----
 Hello! My name is Mohammad Salem.
 
 - **Education:**  
-  BSc in Computer Science – Afghanistan  
-  Cybersecurity student at Dawson College
+  - BSc in Computer Science – Afghanistan  
+  - Cybersecurity student at Dawson College
 
 - **Certificates:**  
-  Cisco CyberOps, Coursera Cybersecurity, Dawson College trainings
+  - Cisco CyberOps  
+  - Coursera Cybersecurity  
+  - Dawson College trainings
 
-## Work Experience
+---
 
-## IT Officer | NSIA, Afghanistan
-2019 – 2021
+## 💼 Work Experience
+
+### IT Officer | NSIA, Afghanistan
+**2019 – 2021**  
 - Managed IT systems and provided technical support across departments.  
 - Assisted in network administration and troubleshooting hardware/software issues.  
 - Maintained data security and supported staff in technology-related tasks.  
 
-## Kitchen Assistant | 3-Amigos, Canada
-2023 – 2024
+### Kitchen Assistant | 3-Amigos, Canada
+**2023 – 2024**  
 - Assisted chefs in food preparation and maintained kitchen hygiene.  
 - Managed inventory and ensured timely delivery of ingredients.  
 - Supported smooth daily kitchen operations.  
 
-## Warehouse Worker | FedEx, Canada
-2024 – Present  
+### Warehouse Worker | FedEx, Canada
+**2024 – Present**  
 - Handled incoming and outgoing shipments efficiently.  
 - Organized inventory and maintained warehouse safety standards.  
 - Operated equipment and collaborated with team members to meet delivery schedules.
 
+---
 
-- **Interests:**  
-  Cloud Security | SOC Analysis | Networking | Practical Labs
+## 🎯 Interests
+- Cloud Security  
+- SOC Analysis  
+- Networking  
+- Practical Labs
 
-- **Continuous Learning:**  
-  TryHackMe, Coursera, Cisco NetAcad
+## 📚 Continuous Learning
+- TryHackMe  
+- Coursera  
+- Cisco NetAcad
 
-- **Contact:**  
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> Email: [salemhassani228@gmail.com](mailto:salemhassani228@gmail.com)  
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/> LinkedIn: [linkedin.com/in/salem228](https://www.linkedin.com/in/salem228)
+---
+
+## 📬 Contact
+- <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> **Email:** [salemhassani228@gmail.com](mailto:salemhassani228@gmail.com)  
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/> **LinkedIn:** [linkedin.com/in/salem228](https://www.linkedin.com/in/salem228)
+
 
 ---
 
