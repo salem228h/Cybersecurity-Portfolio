@@ -1,66 +1,62 @@
-Course 2: Play It Safe - Manage Security Risks
-<a href="../../images/coursera-course2.png" target="_blank"> <img src="../../images/coursera-course2.png" width="750"/> </a>
-📖 Course Information
+# Course 2: Play It Safe - Manage Security Risks
 
-Course Name: Play It Safe - Manage Security Risks
+<a href="images/coursera-course2.png" target="_blank">
+  <img src="images/coursera-course2.png" width="750"/>
+</a>
 
-Provider: Google Cybersecurity Professional Certificate
+---
 
-Status: ✅ Completed
+## 📖 Course Information
 
-Completion Date: December 2025
+- **Course Name:** Play It Safe - Manage Security Risks  
+- **Provider:** Google Cybersecurity Professional Certificate  
+- **Status:** ✅ Completed  
+- **Completion Date:** December 2025  
+- **Certificate:** [View Certificate](https://www.coursera.org/verify/88TJHTU1925Z)  
 
-Certificate: View Certificate
+---
 
-🎯 Skills Learned
-Risk Management
+## 🎯 Skills Learned
 
-✅ Risk assessment
+### Risk Management
+- ✅ Risk assessment
+- ✅ Risk mitigation
+- ✅ Risk analysis
 
-✅ Risk mitigation
+### Security Controls
+- ✅ Administrative controls
+- ✅ Technical controls
+- ✅ Physical controls
 
-✅ Risk analysis
+### Incident Response
+- ✅ Incident lifecycle
+- ✅ Detection and reporting
+- ✅ Response procedures
 
-Security Controls
+---
 
-✅ Administrative controls
+## 📝 Key Topics
 
-✅ Technical controls
+1. Understanding Cybersecurity Risks  
+2. Risk Assessment and Mitigation Strategies  
+3. Implementing Security Controls  
+4. Incident Response and Management  
 
-✅ Physical controls
+---
 
-Incident Response
+## 💡 Key Takeaways
 
-✅ Incident lifecycle
+- Risk management is key to proactive cybersecurity  
+- Security controls can be administrative, technical, or physical  
+- Incident response includes preparation, detection, containment, and recovery  
+- Effective risk management reduces potential business impact  
 
-✅ Detection and reporting
+---
 
-✅ Response procedures
+## 🔗 Navigation
 
-📝 Key Topics
+- [← Previous: Foundations of Cybersecurity](course1.md)  
+- [Back to All Courses](README.md)  
+- [Next Course: Networks →](course3.md)  
 
-Understanding Cybersecurity Risks
-
-Risk Assessment and Mitigation Strategies
-
-Implementing Security Controls
-
-Incident Response and Management
-
-💡 Key Takeaways
-
-Risk management is essential for proactive cybersecurity
-
-Security controls can be administrative, technical, or physical
-
-Incident response involves preparation, detection, containment, and recovery
-
-Effective risk management reduces potential business impact
-
-🔗 Navigation
-
-← Previous: Foundations of Cybersecurity
-
-Back to All Courses
-
-Next Course: Networks →
+---
