@@ -1,42 +1,66 @@
-ر
-ر# Course 2: Play It Safe - Manage Security Risks
+Course 2: Play It Safe - Manage Security Risks
+<a href="../../images/coursera-course2.png" target="_blank"> <img src="../../images/coursera-course2.png" width="750"/> </a>
+📖 Course Information
 
-<a href="../../images/coursera-course2.png" target="_blank">
-  <img src="../../images/coursera-course2.png" width="750"/>
-</a>
+Course Name: Play It Safe - Manage Security Risks
 
----
+Provider: Google Cybersecurity Professional Certificate
 
-## 📖 Course Information
+Status: ✅ Completed
 
-- **Status:** 🔄 In Progress
-- **Expected Completion:** December 2025
+Completion Date: December 2025
 
----
+Certificate: View Certificate
 
-## 🎯 Skills to Learn
+🎯 Skills Learned
+Risk Management
 
-### Risk Management
-- ⏳ Risk assessment
-- ⏳ Risk mitigation
-- ⏳ Risk analysis
+✅ Risk assessment
 
-### Security Controls
-- ⏳ Administrative controls
-- ⏳ Technical controls
-- ⏳ Physical controls
+✅ Risk mitigation
 
-### Incident Response
-- ⏳ Incident lifecycle
-- ⏳ Detection and reporting
-- ⏳ Response procedures
+✅ Risk analysis
 
----
+Security Controls
 
-## 🔗 Navigation
+✅ Administrative controls
 
-- [← Previous: Foundations](course1.md)
-- [Back to All Courses](README.md)
-- [Next Course: Networks →](course3.md)
+✅ Technical controls
 
----
+✅ Physical controls
+
+Incident Response
+
+✅ Incident lifecycle
+
+✅ Detection and reporting
+
+✅ Response procedures
+
+📝 Key Topics
+
+Understanding Cybersecurity Risks
+
+Risk Assessment and Mitigation Strategies
+
+Implementing Security Controls
+
+Incident Response and Management
+
+💡 Key Takeaways
+
+Risk management is essential for proactive cybersecurity
+
+Security controls can be administrative, technical, or physical
+
+Incident response involves preparation, detection, containment, and recovery
+
+Effective risk management reduces potential business impact
+
+🔗 Navigation
+
+← Previous: Foundations of Cybersecurity
+
+Back to All Courses
+
+Next Course: Networks →
