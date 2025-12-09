@@ -9,10 +9,10 @@
 ### ✅ Completed Courses
 - [Course 1: Foundations of Cybersecurity](course1.md)
 
-### 🔄 In Progress
+### ✅ Completed Courses
 - [Course 2: Play It Safe - Manage Security Risks](course2.md)
 
-### ⏳ Upcoming Courses
+### 🔄 In Progress
 - [Course 3: Connect and Protect - Networks Security](course3.md)
 - [Course 4: Tools of the Trade - Linux and SQL](course4.md)
 - [Course 5: Assets, Threats, and Vulnerabilities](course5.md)
