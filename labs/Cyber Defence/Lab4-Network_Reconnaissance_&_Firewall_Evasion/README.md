@@ -9,6 +9,7 @@ Institution: Asen Grozdanov
 Date: 2025-12-15
 
 ---
+➡️ [Network Reconnaissance & Firewall Evasion – Full Report (PDF)](Network_Reconnaissance_&_Firewall_Evasion.pdf)
 
 ## Lab Overview
 This lab covers the **Reconnaissance** and **Firewall Evasion** phases of the Cyber Kill Chain from both offensive and defensive perspectives.
