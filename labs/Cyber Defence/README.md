@@ -9,8 +9,6 @@ The purpose of these labs is to provide hands-on experience in configuring firew
 
 | Lab | Brief Description | Link |
 |-----|-----------------|------|
-| Lab | Brief Description | Link |
-|-----|------------------|------|
 | Lab 1: iptables Configuration | Full iptables firewall configuration including basic rules, IP/port filtering, stateful firewall, MAC filtering, and NAT | [Lab 1](Lab1-iptables/) |
 | Lab 2: Linux System Hardening | Linux system hardening including kernel tuning, SSH hardening, firewall configuration, and security updates | [Lab 2](Lab2-linux_sys_hardening/) |
 | Lab 3: Advanced iptables & NAT | Advanced firewall rules, custom chains, logging, and NAT scenarios | [Lab 3](Lab3-advanced-iptables/) |
