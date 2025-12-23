@@ -35,12 +35,6 @@ Cybersecurity and cloud projects:
 
 ### 🏢 Work Experience
 
-- **Cyber Analyst Intern** – ABC Security Solutions (2023–2024)  
-  Alert monitoring, incident response, and reporting.  
-
-- **University IT Lab Assistant** – Dawson College (2024)  
-  Network troubleshooting and lab supervision.  
-
 - **IT Officer** – NSIA, Afghanistan (2019–2021)  
   System support, network administration, and data security.  
 
