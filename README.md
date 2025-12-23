@@ -21,7 +21,7 @@ My main certificates and trainings:
 ### 🧪 Labs
 Hands-on labs and virtual training reports:
 - [TryHackMe: Introduction Room](labs/tryhackme-intro.md)
-- [Cloud Basics](labs/cloud-basics.md)
+- [Threats & Risks](labs/cloud-basics.md)
 - [Cyber Defence Labs](labs/Cyber%20Defence/README.md)
 
 ---
