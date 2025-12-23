@@ -1,17 +1,16 @@
 # 🛡️ Cybersecurity & Cloud Security Portfolio
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=salem228h&color=0e75b6&style=flat)  
 
-🌟 *Welcome! This repository showcases my certificates, hands-on labs, SOC analysis reports, cybersecurity projects, and CTF writeups.*
+Welcome to my **Cybersecurity Portfolio**.  
+This repository showcases my certificates, hands-on labs, SOC analysis reports, cloud security projects, and CTF writeups.
 
 ---
 
 ## 🗂️ Sections
 
----
-
-### 🎓 Certificates  
-All my completed course certificates and badges:
+### 🎓 Certificates
+My main certificates and trainings:
 - [Coursera Cyber Security](certificates/coursera/README.md)
 - [Dawson College Cybersecurity](certificates/dawson.md)
 - [University Documents](certificates/university-docs.md)
@@ -19,113 +18,60 @@ All my completed course certificates and badges:
 
 ---
 
-### 🧪 Labs  
-Reports and notes from my hands-on labs and virtual training:
+### 🧪 Labs
+Hands-on labs and virtual training reports:
 - [TryHackMe: Introduction Room](labs/tryhackme-intro.md)
 - [Cloud Basics](labs/cloud-basics.md)
 - [Cyber Defence Labs](labs/Cyber%20Defence/README.md)
 
-
 ---
 
-### 🛠️ Projects  
-Collection of personal, academic, or open-source cybersecurity projects:
+### 🛠️ Projects
+Cybersecurity and cloud projects:
 - [Cloud Security Script](projects/cloud-script.md)
 - [Network Automation Tool](projects/network-auto.md)
 
 ---
 
-### 🏢 Work Experience  
-Internships and work experience in cybersecurity:
+### 🏢 Work Experience
 
-- **Cyber Analyst Intern**  
-  ABC Security Solutions (2023-2024)  
-  Tasks: Alert monitoring, incident response, reporting
+- **Cyber Analyst Intern** – ABC Security Solutions (2023–2024)  
+  Alert monitoring, incident response, and reporting.  
 
-- **University IT Lab Assistant**  
-  Dawson College (2024)  
-  Tasks: Network troubleshooting, lab supervision
+- **University IT Lab Assistant** – Dawson College (2024)  
+  Network troubleshooting and lab supervision.  
+
+- **IT Officer** – NSIA, Afghanistan (2019–2021)  
+  System support, network administration, and data security.  
 
 ---
 
-### ✍️ Write-ups & CTFs  
-Solutions to challenges, CTF rooms, and scenarios:
+### ✍️ Write-ups & CTFs
 - [TryHackMe: Attacker Room](writeups/attacker-room.md)
 
 ---
 
-## 🛡️ SOC Analysis  
-Specialized SOC (Security Operations Center) challenges and case studies:
-
+## 🛡️ SOC Analysis
+SOC-focused analysis and case studies:
 - [SOC Log Analysis Report](labs/soc-analysis.md)
 
 ---
 
-## 🚀 Quick Links
-- [Cisco Certificate](certificates/cisco-cyberops.md)
-- [Coursera Cyber Security](certificates/coursera/README.md)
-- [Dawson Certificate](certificates/dawson.md)
-- [University Document](certificates/university-docs.md)
-- [First TryHackMe Lab](labs/tryhackme-intro.md)
-- [Cloud Basics Lab](labs/cloud-basics.md)
-- [SOC Analysis](labs/soc-analysis.md)
-- [Cloud Project](projects/cloud-script.md)
-- [TryHackMe Attacker Writeup](writeups/attacker-room.md)
-
----
 ## 👤 About Me
-Hello! My name is Mohammad Salem.
 
-- **Education:**  
-  - BSc in Computer Science – Afghanistan  
-  - Cybersecurity student at Dawson College
+Hello! My name is **Mohammad Salem**.  
+- BSc in Computer Science – Afghanistan  
+- Cybersecurity student at Dawson College  
+- Interests: Cloud Security, SOC Analysis, Networking, Practical Labs  
 
-- **Certificates:**  
-  - Cisco CyberOps  
-  - Coursera Cybersecurity  
-  - Dawson College trainings
-
----
-
-## 💼 Work Experience
-
-### IT Officer | NSIA, Afghanistan
-**2019 – 2021**  
-- Managed IT systems and provided technical support across departments.  
-- Assisted in network administration and troubleshooting hardware/software issues.  
-- Maintained data security and supported staff in technology-related tasks.  
-
-### Kitchen Assistant | 3-Amigos, Canada
-**2023 – 2024**  
-- Assisted chefs in food preparation and maintained kitchen hygiene.  
-- Managed inventory and ensured timely delivery of ingredients.  
-- Supported smooth daily kitchen operations.  
-
-### Warehouse Worker | FedEx, Canada
-**2024 – Present**  
-- Handled incoming and outgoing shipments efficiently.  
-- Organized inventory and maintained warehouse safety standards.  
-- Operated equipment and collaborated with team members to meet delivery schedules.
-
----
-
-## 🎯 Interests
-- Cloud Security  
-- SOC Analysis  
-- Networking  
-- Practical Labs
-
-## 📚 Continuous Learning
+Continuous learning with:
 - TryHackMe  
 - Coursera  
-- Cisco NetAcad
+- Cisco NetAcad  
 
 ---
 
 ## 📬 Contact
+
 - <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> **Email:** [salemhassani228@gmail.com](mailto:salemhassani228@gmail.com)  
 - <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/> **LinkedIn:** [linkedin.com/in/salem228](https://www.linkedin.com/in/salem228)
-
-
----
-
