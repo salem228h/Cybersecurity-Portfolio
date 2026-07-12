@@ -1,71 +1,75 @@
-# 🛡️ Cybersecurity & Cloud Security Portfolio
+# Hi, I'm Salem Hassani 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=salem228h&color=0e75b6&style=flat)  
-
-Welcome to my **Cybersecurity Portfolio**.  
-This repository showcases my certificates, hands-on labs, SOC analysis reports, cloud security projects, and CTF writeups.
+### 💻 IT Support Specialist | Aspiring Cybersecurity Professional
+🇨🇦 Quebec, Canada
 
 ---
 
-## 🗂️ Sections
+## 👨‍💻 About Me
 
-### 🎓 Certificates
-My main certificates and trainings:
-- [Coursera Cyber Security](certificates/coursera/README.md)
-- [Dawson College Cybersecurity](certificates/dawson.md)
-- [University Documents](certificates/university-docs.md)
-- [Cisco CyberOps Associate Certificate](certificates/cisco-cyberops.md)
+I'm an IT professional based in Quebec, currently seeking an **entry-level IT Support role** while continuing to build my skills in cybersecurity. I recently completed my **AEC in Cybersecurity at Dawson College**, and I bring hands-on experience with system administration, networking, and troubleshooting — with a growing specialization in defensive security.
 
----
-
-### 🧪 Labs
-Hands-on labs and virtual training reports:
-- [preventative Monitoring](labs/tryhackme-intro.md)
-- [Threats & Risks](labs/cloud-basics.md)
-- [Cyber Defence Labs](labs/Cyber%20Defence/README.md)
+**Current focus:**
+- 🖥️ IT Support & System Administration
+- 🌐 Networking Fundamentals
+- 🔐 Security Monitoring (SOC basics)
+- 🛡️ Defensive Security & Vulnerability Assessment
 
 ---
 
-### 🛠️ Projects
-Cybersecurity and cloud projects:
-- [Cloud Security Script](projects/cloud-script.md)
-- [Network Automation Tool](projects/network-auto.md)
+## 🚀 Featured Projects
+
+### 🛡️ Enterprise Cybersecurity Lab
+A complete home-lab security environment built to practice enterprise-style network defense:
+- OPNsense Firewall
+- VLAN Network Segmentation
+- Active Directory & Windows Server
+- Linux Servers
+- Wazuh SIEM Monitoring
+
+**Skills demonstrated:** Firewall Management • Network Security • Access Control • Security Monitoring
+
+### 🔎 Vulnerability Assessment Lab
+A testing environment for practicing security assessment workflows:
+- Kali Linux
+- Nmap
+- BloodHound
+- Vulnerability Scanning & Analysis
 
 ---
 
-### 🏢 Work Experience
+## 🧰 Technical Skills
 
-- **IT Officer** – NSIA, Afghanistan (2019–2021)  
-  System support, network administration, and data security.  
+**IT Support & Systems**
+![Windows Server](https://img.shields.io/badge/Windows%20Server-blue)
+![Linux](https://img.shields.io/badge/Linux-black)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-darkblue)
+![Networking](https://img.shields.io/badge/Networking-teal)
 
----
+**Cybersecurity**
+![SOC](https://img.shields.io/badge/SOC%20Monitoring-blue)
+![SIEM](https://img.shields.io/badge/SIEM-Wazuh-red)
+![Network Security](https://img.shields.io/badge/Network-Security-green)
 
-### ✍️ Write-ups & CTFs
-- [TryHackMe: Attacker Room](writeups/attacker-room.md)
-
----
-
-## 🛡️ SOC Analysis
-SOC-focused analysis and case studies:
-- [SOC Log Analysis Report](labs/soc-analysis.md)
-
----
-
-## 👤 About Me
-
-Hello! My name is **Mohammad Salem**.  
-- BSc in Computer Science – Afghanistan  
-- Cybersecurity student at Dawson College  
-- Interests: Cloud Security, SOC Analysis, Networking, Practical Labs  
-
-Continuous learning with:
-- TryHackMe  
-- Coursera  
-- Cisco NetAcad  
+**Tools**
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-black)
+![OPNsense](https://img.shields.io/badge/OPNsense-orange)
+![Docker](https://img.shields.io/badge/Docker-blue)
+![Python](https://img.shields.io/badge/Python-yellow)
 
 ---
 
-## 📬 Contact
+## 🎓 Education & Certifications
 
-- <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> **Email:** [salemhassani228@gmail.com](mailto:salemhassani228@gmail.com)  
-- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/> **LinkedIn:** [linkedin.com/in/salem228](https://www.linkedin.com/in/salem228)
+- 🎓 AEC Cybersecurity — Dawson College (Completed)
+- 🏆 Google Cybersecurity Certificate
+- 🔐 TryHackMe Labs
+
+---
+
+## 📬 Connect With Me
+
+🌍 **Portfolio:** [salem228h.github.io/salem-hassani-portfolio](https://salem228h.github.io/salem-hassani-portfolio/)
+💻 **GitHub:** [github.com/salem228h](https://github.com/salem228h)
+🔗 **LinkedIn:** [linkedin.com/in/salem228](https://linkedin.com/in/salem228)
+📧 **Email:** [salemhassani228@gmail.com](mailto:salemhassani228@gmail.com)
