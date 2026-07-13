@@ -2,10 +2,10 @@
 
 <div align="center">
 
-# Salem (Mohammad Salem) Hassani
+# Mohammad Salem Hassani
 
 🛡️ IT Support Specialist | Cybersecurity Professional  
-🇨🇦 Quebec, Canada
+🇨🇦 Montreal, Canada
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)](https://salem228h.github.io/salem-hassani-portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-salem228h-black?style=for-the-badge)](https://github.com/salem228h)
@@ -195,5 +195,28 @@ Examples:
 - Vulnerability Research
 
 ---
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email: salemhassani228@gmail.com
+
+💻 GitHub:
+https://github.com/salem228h
+
+🌍 Portfolio:
+https://salem228h.github.io/salem-hassani-portfolio/
+
+🔗 LinkedIn:
+https://linkedin.com/in/salem228
+
+---
+
+<div align="center">
+
+⭐ Building secure systems, one lab at a time 🛡️
+
+</div>
 
 # 📂 Repository Structure
