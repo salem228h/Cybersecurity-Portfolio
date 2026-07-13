@@ -1,83 +1,199 @@
-<div align="center">
-
 # 💻 IT Support & Cybersecurity Portfolio
 
-### Salem (Mohammad Salem) Hassani
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=salem228h&color=blue&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/salem228)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:salemhassani228@gmail.com)
+# Salem (Mohammad Salem) Hassani
 
-Welcome to my portfolio. I'm currently seeking an **entry-level IT Support role**, backed by hands-on labs, certificates, and practical experience in system administration, networking, and security fundamentals.
+🛡️ IT Support Specialist | Cybersecurity Professional  
+🇨🇦 Quebec, Canada
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)](https://salem228h.github.io/salem-hassani-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-salem228h-black?style=for-the-badge)](https://github.com/salem228h)
 
 </div>
 
 ---
 
-## 🗂️ Sections
+## 👨‍💻 About Me
 
-| Section | Description |
-|---|---|
-| [🎓 Certificates](#-certificates) | Certifications and trainings completed |
-| [🧪 Labs](#-labs) | Hands-on IT & security labs |
-| [🛠️ Projects](#️-projects) | IT support and security-related projects |
-| [🏢 Work Experience](#-work-experience) | Professional IT background |
-| [✍️ Write-ups & CTFs](#️-write-ups--ctfs) | Practical exercises and walkthroughs |
-| [🛡️ Security Analysis](#️-security-analysis) | Applied security case studies |
-| [👤 About Me](#-about-me) | Background and goals |
-| [📬 Contact](#-contact) | Get in touch |
+I am an IT Support Specialist and Cybersecurity professional based in Quebec, Canada.
 
----
+I have hands-on experience in:
 
-## 🎓 Certificates
+- 🖥️ System Administration
+- 🌐 Networking & Infrastructure
+- 🔐 Cybersecurity Fundamentals
+- 🛡️ Defensive Security
+- 📊 Security Monitoring (SOC)
 
-- [Coursera – Cyber Security Foundations](./certificates)
-- [Dawson College – AEC Cybersecurity](./certificates)
-- [University Documents (BSc Computer Science)](./certificates)
-- [Cisco CyberOps Associate Certificate](./certificates)
-
-## 🧪 Labs
-
-Hands-on labs covering IT support, system administration, and foundational security skills:
-- [Preventative Monitoring](./labs)
-- [Threats & Risks](./labs)
-- [Cyber Defence Labs](./labs)
-
-## 🛠️ Projects
-
-- [Cloud Security Script](./projects)
-- [Network Automation Tool](./projects)
-
-## 🏢 Work Experience
-
-**IT Officer — NSIA, Afghanistan** *(2019–2021)*
-System support, network administration, and data security — day-to-day troubleshooting, user support, and infrastructure maintenance.
-
-## ✍️ Write-ups & CTFs
-
-- [TryHackMe: Attacker Room](./writeups)
-
-## 🛡️ Security Analysis
-
-- [SOC Log Analysis Report](./writeups)
+This portfolio demonstrates my practical labs, security projects, documentation, and continuous learning journey.
 
 ---
 
-## 👤 About Me
+# 🧰 Technical Skills
 
-Hello! My name is **Mohammad Salem Hassani**.
+## 🖥️ IT Support & Systems
 
-I'm actively looking for my **first IT Support position** in Quebec, bringing a solid foundation in system administration, networking, and troubleshooting, along with a growing specialization in cybersecurity.
+- Windows Server
+- Active Directory
+- User & Access Management
+- Linux Administration
+- Troubleshooting
+- Virtualization
 
-- 🎓 BSc in Computer Science — Afghanistan
-- 🎓 AEC Cybersecurity — Dawson College (Completed)
-- 💼 2 years of hands-on IT support & network administration experience
-- 🔍 Interests: IT Support, Networking, Cloud Security, SOC Analysis
-- 📚 Continuous learning through **TryHackMe**, **Coursera**, and **Cisco NetAcad**
+## 🌐 Networking
+
+- TCP/IP
+- VLAN Segmentation
+- DHCP
+- DNS
+- Firewall Configuration
+- Network Troubleshooting
+
+## 🔐 Cybersecurity
+
+- SOC Monitoring
+- SIEM Concepts
+- Vulnerability Assessment
+- Security Analysis
+- Incident Response Fundamentals
+
+## 🛠️ Tools
+
+- Wazuh SIEM
+- OPNsense Firewall
+- Kali Linux
+- Nmap
+- BloodHound
+- Docker
+- Python
+- VirtualBox
 
 ---
 
-## 📬 Contact
+# 🧪 Hands-on Labs
 
-📧 **Email:** [salemhassani228@gmail.com](mailto:salemhassani228@gmail.com)
-🔗 **LinkedIn:** [linkedin.com/in/salem228](https://linkedin.com/in/salem228)
+## 🛡️ Enterprise Cybersecurity Lab
+
+A simulated enterprise environment designed to practice network defense.
+
+Technologies:
+
+- OPNsense Firewall
+- VLAN Network Segmentation
+- Active Directory
+- Windows Server
+- Linux Servers
+- Wazuh SIEM
+
+Skills demonstrated:
+
+✅ Firewall Management  
+✅ Network Security  
+✅ Access Control  
+✅ Security Monitoring  
+
+---
+
+## 🔎 Vulnerability Assessment Lab
+
+Security testing environment focused on identifying and analyzing vulnerabilities.
+
+Tools:
+
+- Kali Linux
+- Nmap
+- BloodHound
+- Vulnerability Scanning
+
+Skills demonstrated:
+
+✅ Reconnaissance  
+✅ Security Assessment  
+✅ Risk Identification  
+
+---
+
+## 🖥️ System Administration Lab
+
+Practice environment for:
+
+- Windows Server Management
+- Linux Administration
+- User Management
+- Network Services
+
+---
+
+# 🚀 Projects
+
+## 🔐 Wazuh SOC Monitoring Lab
+
+Building a Security Operations Center environment:
+
+- Log Collection
+- Security Alerts
+- Monitoring Dashboard
+- Threat Detection Practice
+
+
+## 🌐 Network Automation Tool
+
+Python-based automation project:
+
+- Network Tasks Automation
+- Security Scripts
+- Productivity Improvement
+
+
+## ☁️ Cloud Security Projects
+
+Exploring:
+
+- Cloud Security Fundamentals
+- Identity Management
+- Security Best Practices
+
+---
+
+# 🎓 Certifications & Education
+
+🎓 **AEC Cybersecurity — Dawson College**
+
+🏆 **Google Cybersecurity Certificate**
+
+🌐 **Cisco Networking & Cybersecurity Training**
+
+🔐 **TryHackMe Practical Labs**
+
+🎓 **BSc Computer Science**
+
+---
+
+# 💼 Professional Experience
+
+## IT Officer — NSIA, Afghanistan
+**2019 – 2021**
+
+Experience with:
+
+- IT Support
+- Network Administration
+- System Maintenance
+- User Support
+- Infrastructure Operations
+
+---
+
+# ✍️ Write-ups & Security Research
+
+Examples:
+
+- TryHackMe Labs
+- Security Analysis Reports
+- CTF Write-ups
+- Vulnerability Research
+
+---
+
+# 📂 Repository Structure
