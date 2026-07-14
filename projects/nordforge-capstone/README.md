@@ -1,11 +1,12 @@
-# Project NordForge — Cybersecurity Capstone
-
-End-to-end corporate cybersecurity implementation project.
+# 🛡️ Project NordForge — Cybersecurity Capstone
 
 ## Overview
-Designed and implemented a cybersecurity program covering governance, risk, compliance, incident response, and technical security controls.
 
-## Technologies & Tools
+Project NordForge is an end-to-end corporate cybersecurity implementation completed as the final capstone project for the AEC Cybersecurity program at Dawson College.
+
+The project covers security architecture, risk management, compliance, incident response, and technical security controls.
+
+## Technologies & Frameworks
 
 - OPNsense Firewall
 - Wazuh SIEM
@@ -13,9 +14,21 @@ Designed and implemented a cybersecurity program covering governance, risk, comp
 - Windows Server
 - Linux
 - Network Security
+- NIST Framework
+- MITRE ATT&CK
+- CVSS Risk Assessment
+
+## Skills Demonstrated
+
+- Network Security Design
+- Firewall Configuration
+- Security Monitoring
+- Vulnerability Assessment
+- Risk Analysis
+- Incident Response
 
 ## Evidence
 
-- Final project report
-- Network diagrams
-- Security screenshots
+- Final Project Report
+- Network Diagrams
+- Security Screenshots
