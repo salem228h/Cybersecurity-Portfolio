@@ -1,0 +1,45 @@
+<svg width="680" height="320" viewBox="0 0 680 320" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Incident handling and response lifecycle, six phases</title>
+<desc>Prepare, identify, contain, eradicate, recover, and lessons learned, shown as a sequence of six steps with the lessons learned phase feeding back into preparation for the next incident.</desc>
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M2 1L8 5L2 9" fill="none" stroke="#444441" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </marker>
+</defs>
+<rect width="680" height="320" fill="#ffffff"/>
+
+<rect x="20" y="60" width="150" height="56" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="0.5"/>
+<text x="95" y="84" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="#2C2C2A">1. Prepare</text>
+<text x="95" y="102" text-anchor="middle" font-family="Arial" font-size="12" fill="#5F5E5A">Plans, tools, training</text>
+<line x1="170" y1="88" x2="200" y2="88" stroke="#444441" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<rect x="200" y="60" width="150" height="56" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
+<text x="275" y="84" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="#042C53">2. Identify</text>
+<text x="275" y="102" text-anchor="middle" font-family="Arial" font-size="12" fill="#185FA5">Triage and validate</text>
+<line x1="350" y1="88" x2="380" y2="88" stroke="#444441" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<rect x="380" y="60" width="150" height="56" rx="8" fill="#FAEEDA" stroke="#854F0B" stroke-width="0.5"/>
+<text x="455" y="84" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="#412402">3. Contain</text>
+<text x="455" y="102" text-anchor="middle" font-family="Arial" font-size="12" fill="#854F0B">Short and long term</text>
+<line x1="455" y1="116" x2="455" y2="150" stroke="#444441" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<rect x="380" y="150" width="150" height="56" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/>
+<text x="455" y="174" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="#4A1B0C">4. Eradicate</text>
+<text x="455" y="192" text-anchor="middle" font-family="Arial" font-size="12" fill="#993C1D">Remove the cause</text>
+<line x1="380" y1="178" x2="350" y2="178" stroke="#444441" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<rect x="200" y="150" width="150" height="56" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/>
+<text x="275" y="174" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="#173404">5. Recover</text>
+<text x="275" y="192" text-anchor="middle" font-family="Arial" font-size="12" fill="#3B6D11">Restore and verify</text>
+<line x1="200" y1="178" x2="170" y2="178" stroke="#444441" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<rect x="20" y="150" width="150" height="56" rx="8" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.5"/>
+<text x="95" y="174" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="#26215C">6. Lessons learned</text>
+<text x="95" y="192" text-anchor="middle" font-family="Arial" font-size="12" fill="#534AB7">Review and improve</text>
+
+<text x="95" y="225" text-anchor="middle" font-family="Arial" font-size="11" fill="#5F5E5A">&#8635; feeds back into Prepare</text>
+
+<rect x="20" y="270" width="640" height="40" rx="8" fill="#F1EFE8" stroke="#888780" stroke-width="0.5"/>
+<text x="40" y="286" font-family="Arial" font-size="12" fill="#2C2C2A">Case NF-IR-2026-001: SSH brute force on FS01, detected by Wazuh in 6 minutes</text>
+<text x="40" y="302" font-family="Arial" font-size="12" fill="#2C2C2A">Meta01 backdoor eradicated, system recovered and verified clean</text>
+</svg>
