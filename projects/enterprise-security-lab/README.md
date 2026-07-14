@@ -2,9 +2,11 @@
 
 ## Overview
 
-A hands-on enterprise security environment designed to simulate a real-world corporate network and security operations.
+A hands-on enterprise security environment designed to simulate a real-world corporate network.
 
-## Technologies
+This project combines network security, system administration, and SOC monitoring practices.
+
+## Environment Components
 
 - OPNsense Firewall
 - VLAN Network Segmentation
@@ -12,22 +14,21 @@ A hands-on enterprise security environment designed to simulate a real-world cor
 - Windows Server
 - Linux Server
 - Wazuh SIEM
-- Kali Linux
 
-## Skills Demonstrated
+## Security Areas
 
 - Network Security
 - Firewall Management
 - Access Control
+- Endpoint Security
 - Security Monitoring
-- System Administration
 - Vulnerability Assessment
 
-## Lab Architecture
+## Technologies
 
-This environment includes:
-
-- Corporate Network (CORP)
-- Security Operations Center (SOC)
-- DMZ Network
-- Management Network
+- OPNsense
+- Wazuh
+- Windows Server
+- Linux
+- Active Directory
+- Kali Linux
