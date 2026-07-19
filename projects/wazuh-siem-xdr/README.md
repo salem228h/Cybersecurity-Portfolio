@@ -152,4 +152,4 @@ wazuh-siem/
 ## Author
 
 **Mohammad Salem Hassani**  
-Course 420-4C2-DW · Cyber.SoHo Educational Hub · 2026
+
