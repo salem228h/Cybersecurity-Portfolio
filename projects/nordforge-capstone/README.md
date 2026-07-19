@@ -70,7 +70,6 @@ built in a virtualized lab using industry-standard frameworks.
 
 ## Authors
 Mohammad Salem Hassani · Ali Assaad  
-Course 420-4C2-DW · Cyber.SoHo · June 2026
 
 - Final Project Report
 - Network Diagrams
