@@ -1,6 +1,4 @@
-# 🛡️ Project NordForge — Cybersecurity Capstone
 
-## Overview
 # 🏆 NordForge Industries — Enterprise Cybersecurity Capstone
 
 > End-to-end cybersecurity program for a 180-employee manufacturer.  
